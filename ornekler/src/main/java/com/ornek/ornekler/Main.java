@@ -9,7 +9,7 @@ import io.dropwizard.setup.Environment;
 public class Main extends Application<ServiceConfiguration> {
 
 	public static void main(String[] args) throws Exception {
-		System.err.println("wefwefweqefqwdqww");
+		System.out.println();
 		new Main().run(args);
 	}
 
